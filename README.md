@@ -6,7 +6,7 @@
 
 -   Rode Landing Page clone with tailwindcss.
 -   Responsive with all devices.
--   took around 6 hours to complete.
+-   Took around 6 hours to complete.
 
 ---
 
